@@ -1,4 +1,7 @@
 ## Quiet Game Instructor Redux - The Last Stand Update ##
+### Note ###
+This mod has been reported to be not working, please refer to Issue #1 for details.
+
 ### What is this? ###
 This addon is the continuation of Quiet Game Instructor made by Weaver. 
 
