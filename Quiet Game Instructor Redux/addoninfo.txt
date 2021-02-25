@@ -1,0 +1,18 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons.
+
+"AddonInfo"
+{
+     addonSteamAppID         550               
+     addontitle              "Quiet Game Instructor Redux"
+     addonversion	         2.0                     
+     addontagline            "Instructor, Shut up"	   
+     addonauthor             "Star Weaver, Ah_Roon"            
+//   addonSteamGroupName     ""                    
+     addonauthorSteamID      "weaverthree"          
+     addonContent_Campaign   0 	                   
+//   addonURL0               "https://github.com/AhRoon/QuietGameInstructor-Redux" 
+
+     // short description that appears in the Add-on list screen...
+     addonDescription        "This addon is the continuation of Quiet Game Instructor made by Weaver. Since the mod author was inactive so we decided to continue updating their mod. This mod simply removes annoying Tips on Game Instructor, allowing you to focus on gameplay. Now updated for 'The Last Stand' update."
+
+}
